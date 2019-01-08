@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fontFamilies>
+
+	<fontFamily name="Lato">
+		<normal>net/sf/jasperreports/fonts/lato/Lato-Regular.ttf</normal>
+		<bold>net/sf/jasperreports/fonts/lato/Lato-Bold.ttf</bold>
+		<italic>net/sf/jasperreports/fonts/lato/Lato-Italic.ttf</italic>
+		<boldItalic>net/sf/jasperreports/fonts/lato/Lato-BoldItalic.ttf</boldItalic>
+		<pdfEncoding>Cp1252</pdfEncoding>
+		<pdfEmbedded>true</pdfEmbedded>
+	</fontFamily>
+	
+	<fontFamily name="Myriad Pro">
+		<normal>net/sf/jasperreports/fonts/myriadpro/MyriadPro-Regular.ttf</normal>
+		<bold>net/sf/jasperreports/fonts/myriadpro/MyriadPro-Bold.ttf</bold>
+		<pdfEncoding>Cp1252</pdfEncoding>
+		<pdfEmbedded>true</pdfEmbedded>
+	</fontFamily>
+
+</fontFamilies>
